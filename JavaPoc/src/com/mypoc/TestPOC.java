@@ -1,7 +1,7 @@
 package com.mypoc;
 class A{
 	A() {
-		System.out.println("--A--");
+		System.out.println("--A-Constructor-");
 	}
 	
 }
